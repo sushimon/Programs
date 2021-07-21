@@ -6,6 +6,9 @@ This is a repository where I store all of my personal projects (school projects 
 ## Turing
 **Cheesecake Cuisine** [(App)](https://github.com/sushimon/Projects/blob/main/Turing%20Summative/Turing%20App/Cheesecake%20Cuisine.t) [(HTML Website)](https://github.com/sushimon/Projects/blob/main/Turing%20Summative/Turing%20Website/Cheesecake%20Cuisine.html) - A tutorial app that describes how to make a Japanese Cheesecake.<br /> <br /> 
 
+## Python
+**PokeStack** [(App)](https://github.com/sushimon/Projects/blob/main/PokeStack/PokeStack.py) - An app for Pokemon GO trainers. Helps keep track of the number and species of pokemon in your research stack. <br /> <br /> 
+
 ## Java
 **Sustainable Caloric Intake App** [(Repl Link)](https://repl.it/@sushimon/Richard-Shi-Sustainable-Caloric-Intake-App) - This program compares your caloric intake to the user's recommended caloric intake based on their age, gender, weight, height, and physical activity levels. <br /> <br /> 
 **Living in Extreme Poverty Calculator App** [(Repl Link)](https://repl.it/@sushimon/Richard-Shi-Living-in-Extreme-Poverty) - This program compares how long it would take for someone living in extreme poverty to save up and buy an item to someone living off of minimum wage. <br /> <br /> 
